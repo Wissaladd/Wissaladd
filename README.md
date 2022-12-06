@@ -15,7 +15,7 @@ A Self Taught Developer and Robotics enthusiast
  -My first step was the Freecodecamp course and here I am :v:.
   
  -I still, play with my electronic boards :woman_shrugging: because I'm pretty fascinated by smart devices and how they work.
-  
+ 
  Disclaimer:rocket: :my Github will definitely be a mix of a bunch of crazy things don't get lost.
   
   #### 💻CORE :
@@ -35,4 +35,13 @@ A Self Taught Developer and Robotics enthusiast
  
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 </p>
+
+#### 💻What i do for fun :
+
+<img src="https://cdn.worldvectorlogo.com/logos/arduino.svg" alt="Arduino Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi Logo" width="50" height="50"/>
+ <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="50"/> </a>
+
+
+
+
                     
