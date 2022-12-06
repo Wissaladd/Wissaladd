@@ -3,20 +3,16 @@ Hiii there!! I'm Wissal  :raising_hand_woman:
 
 A Self Taught Developer and Robotics enthusiast
 -------------------------------------
-## About me :woman_technologist: :
+## Story time :woman_technologist: :
 
  -I graduated college 2 years ago with a bachelor's degree in Mechatronics engineering :woman_student:, at that time I had some coding courses since it was a necessity
                                                 in my degree but I wasn't a fan of the way of teaching us coding.
                                    
- -Due to the pandemic, it wasn't easy for me to find a job so I decided to discover some new skills.
+ -Due to pandemic, it wasn't easy for me to find a job so I decided to discover some new skills.
  
- -I started my journey helping my friend who worked as a freelancer by designing at AdobeXd and working with WordPress to create websites.
- 
- -My first step was the Freecodecamp course and here I am :v:.
+ -I started my journey helping my freelancer friend by designing at AdobeXd and using WordPress to create websites.
   
  -I still, play with my electronic boards :woman_shrugging: because I'm pretty fascinated by smart devices and how they work.
- 
- Disclaimer:rocket: :my Github will definitely be a mix of a bunch of crazy things don't get lost.
   
   #### 💻CORE :
 <p align="left">
@@ -36,10 +32,16 @@ A Self Taught Developer and Robotics enthusiast
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 </p>
 
-#### 💻What i do for fun :
+#### 💻WHAT I DO FOR FUN :
 
-<img src="https://cdn.worldvectorlogo.com/logos/arduino.svg" alt="Arduino Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi Logo" width="50" height="50"/>
- <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="50"/> </a>
+<img src="https://cdn.worldvectorlogo.com/logos/arduino.svg" alt="Arduino Logo" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi Logo" width="40" height="40"/>
+
+#### 💻Socials :
+
+ <a href="https://discord.com/channels/895982445785133056" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/adday-wissal1999" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 
 
 
