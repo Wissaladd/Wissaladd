@@ -3,16 +3,6 @@ Hiii there!! I'm Wissal  :raising_hand_woman:
 
 A Self Taught Developer and Robotics enthusiast
 -------------------------------------
-## Story time :woman_technologist: :
-
- -I graduated college 2 years ago with a bachelor's degree in Mechatronics engineering :woman_student:, at that time I had some coding courses since it was a necessity
-                                                in my degree but I wasn't a fan of the way of teaching us coding.
-                                   
- -Due to pandemic, it wasn't easy for me to find a job so I decided to discover some new skills.
- 
- -I started my journey helping my freelancer friend by designing at AdobeXd and using WordPress to create websites.
-  
- -I still, play with my electronic boards :woman_shrugging: because I'm pretty fascinated by smart devices and how they work.
   
   #### 💻CORE :
 <p align="left">
