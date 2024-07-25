@@ -1,7 +1,7 @@
 Hiii there!! I'm Wissal  :raising_hand_woman:
 ==============================================================================================================================
 
-A Self Taught Developer and Robotics enthusiast
+A Full Stack Developer and Robotics enthusiast
 -------------------------------------
   
   #### 💻CORE :
